@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+faiss-cpu
+langchain_google_genai
+pymupdf
+Pillow
+python-docx
+pandas
+openpyxl
+python-pptx
